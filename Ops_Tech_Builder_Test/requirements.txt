@@ -1,0 +1,10 @@
+# re is from Python standard library, no need to install
+
+flask
+fastapi
+pandas
+openpyxl
+requests
+openai
+uvicorn
+google-generativeai
